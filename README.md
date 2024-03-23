@@ -7,7 +7,7 @@ This application has a front end developed using React.js and an API service imp
 1. Run Ballerina Backend.
    - Install [Ballerina](https://ballerina.io/downloads/) version 2201.8.4 if not already done.
    - Navigate to the backend directory: `cd service`
-   - Run `bal run`
+   - Run `bal run` "Priyanshu"
 
 2. Start Front-end.
    - Install Node.js version 20.x.x.
